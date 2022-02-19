@@ -3,3 +3,11 @@ h1 {
   font-size: 14px;
   text-align: left;
 }
+.mainindex {
+  display: flex;
+  background-color: blue;
+  padding: 10px;
+  border: solid 2px black;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
