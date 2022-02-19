@@ -1,0 +1,8 @@
+h1 {
+  color: black;
+  font-size: 14px;
+  text-align: left;
+}
+.mainindex {
+  display: flex;
+}
